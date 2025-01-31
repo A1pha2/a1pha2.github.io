@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "logo2.png"
   name             : "Krit Klongwithee"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "KMUTT/SK student"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "KMUTT"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "artkritsk138@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
