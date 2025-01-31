@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "logo2.png"
   name             : "Krit Klongwithee"
   pronouns         : # example: "she/her"  
   bio              : "KMUTT/SK student"
